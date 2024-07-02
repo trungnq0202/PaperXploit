@@ -12,6 +12,9 @@ export default {
         medium: ['Roboto Medium', 'sans-serif'],
         bold: ['Roboto Bold', 'sans-serif'],
       },
+      colors: {
+        'brand-red': '#461c25'
+      }
     },
   },
   plugins: [],

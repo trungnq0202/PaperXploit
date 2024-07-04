@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 /** @type {import('tailwindcss').Config} */
 
 export default {
@@ -13,7 +14,8 @@ export default {
         bold: ['Roboto Bold', 'sans-serif'],
       },
       colors: {
-        'brand-red': '#461c25'
+        'brand-red': '#c15e74',
+        'brand-dark-red': '#3c0000',
       }
     },
   },
